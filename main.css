@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(159, 247, 164);
+    font-family: 'Roboto';
+}
+.header{
+    text-align:center;
+}
+.form{
+   margin:auto;
+    width:600px;
+    height:600px;
+    background-color: rgb(250, 250, 250);
+}
+.user-info{
+    text-align:center;
+    padding: 8px;
+}
+
+
+.form input{
+    padding: 8px;
+    width: 95%;
+    border:none;
+    border: 1px solid gray;
+    border-radius:5px;
+    outline:none;
+}
+
+.form select{
+    padding: 8px;
+    width: 95%;
+    border:none;
+    border: 1px solid gray;
+    border-radius:5px;
+    outline:none;
+}
+
+.submit{
+    padding-top:50px;
+    text-align: center;
+}
+.form label{
+    text-align: center;
+}
+
+.message{
+    visibility: hidden;
+}
+
